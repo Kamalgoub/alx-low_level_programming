@@ -1,8 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-*main - Entry point
-*Return: Always 0 (Success)
-*/
+ * main -4puts.C
+ * description -Write a C program that prints exactly
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
